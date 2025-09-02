@@ -7,7 +7,7 @@
 
 ## 🌱 Actualmente aprendiendo
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,kotlin" />
+    <img src="https://skillicons.dev/icons?i=py,java,kotlin, c" />
   </a>
 </p>
 - Marketing digital
