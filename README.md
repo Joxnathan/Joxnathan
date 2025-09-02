@@ -27,3 +27,5 @@
 
 - [ ] Dominar Python (pandas, matplotlib, requests)
 - [ ] Aprender Java para desarrollo backend
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.instagram.com%2Fp%2FCtPgD78JYyl%2F&psig=AOvVaw0vXVZZKZ9ycST0nj4xYYbo&ust=1756923959820000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjZ9vXZuo8DFQAAAAAdAAAAABAE
