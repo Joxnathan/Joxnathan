@@ -6,9 +6,8 @@
 ¡Hola! Soy Jonathan, estudiante de ing civil industrial.
 
 ## 🌱 Actualmente aprendiendo
-- <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=py,java,kotlin" />
   </a>
 </p>
 - Marketing digital
