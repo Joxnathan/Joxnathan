@@ -36,4 +36,4 @@
 ## Contacto
 - 📧Gmail: Jonathandaniel.sotomayor@alumnos.ulagos.cl
 - Discord: Jvnha
-- 🐦Twitter: 
+- 🐦Twitter: OFF
