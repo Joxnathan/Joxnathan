@@ -1,14 +1,29 @@
-## Hi there 👋
 
-<!--
-**Joxnathan/Joxnathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 Actualmente aprendiendo
-- Python
-- Java
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+¡Hola! Soy Jonathan, estudiante de ing civil industrial.
+
+## 🌱 Actualmente aprendiendo
+- Python 
+- Marketing digital
+
+
+## 🎓 Estudiante actualmente Ulagos
+- Ingeniería Civil Industrial
+
+## 💡 Intereses
+- Marketing
+- Lenguajes como Java, python, kotlin
+
+
+
+## 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathan&show_icons=true&theme=radical)
+
+## 🎯 Objetivos 2025
+
+- [ ] Dominar Python (pandas, matplotlib, requests)
+- [ ] Aprender Java para desarrollo backend
