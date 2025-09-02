@@ -34,6 +34,6 @@
 ![images](https://github.com/user-attachments/assets/4df37f0d-1c7b-46e6-b3fc-ffe0fa2c90ce)
 
 ## Contacto
-📧Gmail: Jonathandaniel.sotomayor@alumnos.ulagos.cl
- Discord: Jvnha
-🐦Twitter: 
+- 📧Gmail: Jonathandaniel.sotomayor@alumnos.ulagos.cl
+- Discord: Jvnha
+- 🐦Twitter: 
