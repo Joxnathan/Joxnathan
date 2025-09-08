@@ -1,8 +1,5 @@
 ## Jonathan 🐒
 
-
-# Sobre mí
-
 ¡Hola! Soy Jonathan, estudiante de ing civil industrial.
 
 ## 🌱 Actualmente aprendiendo
