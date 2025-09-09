@@ -1,6 +1,6 @@
 ## Jonathan 🐒
 
-¡Hola! Soy Jonathan, estudiante de ing civil industrial.
+¡Hola! Soy Jonathan, actualemente estudiante de ing civil industrial en la ulagos.
 
 ## 🌱 Actualmente aprendiendo
   <a href="https://skillicons.dev">
@@ -10,7 +10,7 @@
 - Marketing digital
 
 
-## 🎓 Estudiante actualmente Ulagos
+## 🎓 Formacion 
 - Ingeniería Civil Industrial
 
 ## 💡 Intereses
